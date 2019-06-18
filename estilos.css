@@ -59,6 +59,36 @@ a{
     display: flex;
     align-content: space-between;
     justify-content: space-between;
+    text-align: center;
     
 }
 
+#boton1{
+    background-image: url("botones-01.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#boton2{
+    background-image: url("botones-02.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#boton3{
+    background-image: url("botones-03.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 140px;
+    width: 140px;
+    margin-left: auto;
+    margin-right: auto;
+}
