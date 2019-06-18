@@ -26,6 +26,7 @@ a, h1 {
 a{
     text-decoration: none;
     color: grey;
+    font-family: 'Segoe UI';
 }
 
 #banner {
@@ -60,6 +61,7 @@ a{
     align-content: space-between;
     justify-content: space-between;
     text-align: center;
+    font-family: 'Segoe UI';
     
 }
 
@@ -71,6 +73,7 @@ a{
     width: 150px;
     margin-left: auto;
     margin-right: auto;
+    
 }
 
 #boton2{
@@ -91,4 +94,13 @@ a{
     width: 140px;
     margin-left: auto;
     margin-right: auto;
+}
+
+footer{
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    text-align: center;
+    flex: 0 0 auto;
+    height: 100px;
+
 }
