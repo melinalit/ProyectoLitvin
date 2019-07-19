@@ -1,0 +1,18 @@
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\meli\Desktop\Entidades\bin\Debug\Entidades.dll
+C:\Users\meli\Desktop\Entidades\bin\Debug\Entidades.pdb
+C:\Users\meli\Desktop\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\meli\Desktop\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\meli\Desktop\Entidades\obj\Debug\Entidades.dll
+C:\Users\meli\Desktop\Entidades\obj\Debug\Entidades.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Entidades\bin\Debug\Entidades.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Entidades\obj\Debug\Entidades.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Entidades\obj\Debug\Entidades.pdb

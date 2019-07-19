@@ -1,0 +1,33 @@
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Logica\bin\Debug\Logica.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Logica\bin\Debug\Logica.pdb
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Logica\bin\Debug\Datos.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Logica\bin\Debug\Entidades.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Logica\bin\Debug\Datos.pdb
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Logica\bin\Debug\Entidades.pdb
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Logica\obj\Debug\Logica.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Logica\obj\Debug\Logica.pdb
+C:\Users\meli\Desktop\Logica\bin\Debug\Logica.dll
+C:\Users\meli\Desktop\Logica\bin\Debug\Logica.pdb
+C:\Users\meli\Desktop\Logica\bin\Debug\Datos.dll
+C:\Users\meli\Desktop\Logica\bin\Debug\Entidades.dll
+C:\Users\meli\Desktop\Logica\bin\Debug\Datos.pdb
+C:\Users\meli\Desktop\Logica\bin\Debug\Entidades.pdb
+C:\Users\meli\Desktop\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\meli\Desktop\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\meli\Desktop\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\meli\Desktop\Logica\obj\Debug\Logica.dll
+C:\Users\meli\Desktop\Logica\obj\Debug\Logica.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Logica\obj\Debug\Logica.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Logica\obj\Debug\Logica.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Logica\bin\Debug\Logica.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Logica\bin\Debug\Logica.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Logica\bin\Debug\Datos.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Logica\bin\Debug\Entidades.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Logica\bin\Debug\Datos.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Logica\bin\Debug\Entidades.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Logica\obj\Debug\Logica.csproj.CopyComplete

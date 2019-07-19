@@ -1,0 +1,27 @@
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Datos\bin\Debug\Datos.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Datos\bin\Debug\Datos.pdb
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Datos\bin\Debug\Entidades.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Datos\bin\Debug\Entidades.pdb
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Datos\obj\Debug\Datos.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\Datos\obj\Debug\Datos.pdb
+C:\Users\meli\Desktop\Datos\bin\Debug\Datos.dll
+C:\Users\meli\Desktop\Datos\bin\Debug\Datos.pdb
+C:\Users\meli\Desktop\Datos\bin\Debug\Entidades.dll
+C:\Users\meli\Desktop\Datos\bin\Debug\Entidades.pdb
+C:\Users\meli\Desktop\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\meli\Desktop\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\meli\Desktop\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\meli\Desktop\Datos\obj\Debug\Datos.dll
+C:\Users\meli\Desktop\Datos\obj\Debug\Datos.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Datos\obj\Debug\Datos.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Datos\obj\Debug\Datos.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Datos\bin\Debug\Datos.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Datos\bin\Debug\Datos.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Datos\bin\Debug\Entidades.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Datos\bin\Debug\Entidades.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\Datos\obj\Debug\Datos.csproj.CopyComplete

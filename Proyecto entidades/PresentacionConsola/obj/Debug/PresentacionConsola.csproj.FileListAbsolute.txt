@@ -1,0 +1,28 @@
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\bin\Debug\PresentacionConsola.exe.config
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\bin\Debug\PresentacionConsola.exe
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\bin\Debug\PresentacionConsola.pdb
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\bin\Debug\Entidades.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\bin\Debug\Logica.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\bin\Debug\Datos.dll
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\bin\Debug\Entidades.pdb
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\bin\Debug\Logica.pdb
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\bin\Debug\Datos.pdb
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\obj\Debug\PresentacionConsola.csprojAssemblyReference.cache
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\obj\Debug\PresentacionConsola.csproj.CoreCompileInputs.cache
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\obj\Debug\PresentacionConsola.csproj.CopyComplete
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\obj\Debug\PresentacionConsola.exe
+C:\Users\T11641.Training20\Desktop\melinalit\Entidades\PresentacionConsola\obj\Debug\PresentacionConsola.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\obj\Debug\PresentacionConsola.csprojAssemblyReference.cache
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\obj\Debug\PresentacionConsola.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\obj\Debug\PresentacionConsola.exe
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\obj\Debug\PresentacionConsola.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\bin\Debug\PresentacionConsola.exe.config
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\bin\Debug\PresentacionConsola.exe
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\bin\Debug\PresentacionConsola.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\bin\Debug\Entidades.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\bin\Debug\Logica.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\bin\Debug\Datos.dll
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\bin\Debug\Entidades.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\bin\Debug\Logica.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\bin\Debug\Datos.pdb
+D:\Documentos\GitHub\ProyectoLitvin\Proyecto entidades\PresentacionConsola\obj\Debug\PresentacionConsola.csproj.CopyComplete
