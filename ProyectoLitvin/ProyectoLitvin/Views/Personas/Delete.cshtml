@@ -1,0 +1,72 @@
+﻿@model ProyectoLitvin.Models.Persona
+
+@{
+    ViewBag.Title = "Delete";
+}
+<link href="~/Content/style.css" rel="stylesheet" />
+<h2>Borrar</h2>
+
+<h3>¿Está seguro que desea borrar?</h3>
+<div>
+    <h4>Personas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Apellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apellido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaNacimiento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaNacimiento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IDEstadoJudicial)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IDEstadoJudicial)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EstadosJudiciale.EstadoJudicial)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EstadosJudiciale.EstadoJudicial)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nacionalidade.Nacionalidad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nacionalidade.Nacionalidad)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Volver", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,32 @@
+﻿@model ProyectoLitvin.Models.EstadosJudiciale
+
+@{
+    ViewBag.Title = "Delete";
+}
+<link href="~/Content/style.css" rel="stylesheet" />
+<h2>Borrar</h2>
+
+<h3>¿Está seguro que quiere borrar?</h3>
+<div>
+    <h4>Estados Judiciales</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EstadoJudicial)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EstadoJudicial)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Volver", "Index")
+        </div>
+    }
+</div>

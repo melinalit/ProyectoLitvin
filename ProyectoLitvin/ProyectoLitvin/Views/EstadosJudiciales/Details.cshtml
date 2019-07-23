@@ -1,0 +1,26 @@
+﻿@model ProyectoLitvin.Models.EstadosJudiciale
+
+@{
+    ViewBag.Title = "Details";
+}
+<link href="~/Content/style.css" rel="stylesheet" />
+<h2>Detalles</h2>
+
+<div>
+    <h4>Estados Judiciales</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EstadoJudicial)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EstadoJudicial)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Volver", "Index")
+</p>

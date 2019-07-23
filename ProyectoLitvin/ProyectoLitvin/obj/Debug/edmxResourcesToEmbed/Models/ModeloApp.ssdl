@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProyectoFinalModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="EstadosJudiciales">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EstadoJudicial" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Nacionalidades">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nacionalidad" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Personas">
+    <Key>
+      <PropertyRef Name="DNI" />
+    </Key>
+    <Property Name="DNI" Type="int" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Apellido" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FechaNacimiento" Type="date" Nullable="false" />
+    <Property Name="IDNacionalidad" Type="int" Nullable="false" />
+    <Property Name="IDEstadoJudicial" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_Personas_EstadosJudiciales">
+    <End Role="EstadosJudiciales" Type="Self.EstadosJudiciales" Multiplicity="1" />
+    <End Role="Personas" Type="Self.Personas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EstadosJudiciales">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Personas">
+        <PropertyRef Name="IDNacionalidad" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Personas_Nacionalidades">
+    <End Role="Nacionalidades" Type="Self.Nacionalidades" Multiplicity="1" />
+    <End Role="Personas" Type="Self.Personas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Nacionalidades">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Personas">
+        <PropertyRef Name="IDNacionalidad" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ProyectoFinalModelStoreContainer">
+    <EntitySet Name="EstadosJudiciales" EntityType="Self.EstadosJudiciales" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Nacionalidades" EntityType="Self.Nacionalidades" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Personas" EntityType="Self.Personas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Personas_EstadosJudiciales" Association="Self.FK_Personas_EstadosJudiciales">
+      <End Role="EstadosJudiciales" EntitySet="EstadosJudiciales" />
+      <End Role="Personas" EntitySet="Personas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Personas_Nacionalidades" Association="Self.FK_Personas_Nacionalidades">
+      <End Role="Nacionalidades" EntitySet="Nacionalidades" />
+      <End Role="Personas" EntitySet="Personas" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,32 @@
+﻿@model ProyectoLitvin.Models.Nacionalidade
+
+@{
+    ViewBag.Title = "Borrar";
+}
+
+<h2>Borrar</h2>
+
+<h3>¿Está seguro que desea borrar?</h3>
+<div>
+    <h4>Nacionalidades</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nacionalidad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nacionalidad)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Volver", "Index")
+        </div>
+    }
+</div>
